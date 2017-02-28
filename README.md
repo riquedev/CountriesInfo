@@ -11,6 +11,7 @@ Explicações
 -------------
 
 Primeiro, a minha intenção foi basicamente fornecer algo já preparado para vocês utilizarem, acredito que consegui cumprir isso (haha).
+
 Segundo, todos os créditos são dos ["desenvolvedores oficiais"](https://twitter.com/restcountries), é uma API totalmente Free, mas caso você possa ajuda-los doando basta acessar o ["site oficial"](https://restcountries.eu).
 
 >**Notas:**
